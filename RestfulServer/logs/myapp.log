@@ -1,0 +1,19 @@
+2025-08-16 11:11:19.293 [Test worker] INFO  c.g.R.RestfulServerApplicationTests - Starting RestfulServerApplicationTests using Java 17 with PID 3888 (started by glatisko in C:\SOURCE\java\java_springboot_restful_server\RestfulServer)
+2025-08-16 11:11:19.296 [Test worker] INFO  c.g.R.RestfulServerApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-08-16 11:11:24.572 [Test worker] INFO  c.g.R.RestfulServerApplicationTests - Started RestfulServerApplicationTests in 6.412 seconds (process running for 9.663)
+2025-08-16 11:11:35.123 [main] INFO  c.g.R.RestfulServerApplication - Starting RestfulServerApplication using Java 17 with PID 2260 (C:\SOURCE\java\java_springboot_restful_server\RestfulServer\build\libs\RestfulServer.jar started by glatisko in C:\SOURCE\java\java_springboot_restful_server\RestfulServer)
+2025-08-16 11:11:35.132 [main] INFO  c.g.R.RestfulServerApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-16 11:11:37.019 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-08-16 11:11:37.084 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-16 11:11:37.086 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-16 11:11:37.207 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-16 11:11:37.209 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1911 ms
+2025-08-16 11:11:38.236 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-08-16 11:11:38.263 [main] INFO  c.g.R.RestfulServerApplication - Started RestfulServerApplication in 4.281 seconds (process running for 5.029)
+2025-08-16 11:12:03.161 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16 11:12:03.162 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-16 11:12:03.165 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-08-16 11:12:03.284 [http-nio-8080-exec-1] INFO  c.glatisko.RestfulServer.EmployeeApi - Employee Info Logging is enabled
+2025-08-16 11:12:03.285 [http-nio-8080-exec-1] DEBUG c.glatisko.RestfulServer.EmployeeApi - Employee Debug Logging is enabled
+2025-08-16 11:16:41.871 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-16 11:16:42.088 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
